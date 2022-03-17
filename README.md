@@ -1,6 +1,6 @@
 # Basic Responsivity Exercises
 
-## Übung 2: Media Queries 
+## Übung 2: Media Queries - LÖSUNG
 
 **Anweisungen**:
 
